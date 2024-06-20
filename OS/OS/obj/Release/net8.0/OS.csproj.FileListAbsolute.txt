@@ -1,0 +1,14 @@
+C:\Users\petrn\RiderProjects\OS\OS\bin\Release\net8.0\OS.exe
+C:\Users\petrn\RiderProjects\OS\OS\bin\Release\net8.0\OS.deps.json
+C:\Users\petrn\RiderProjects\OS\OS\bin\Release\net8.0\OS.runtimeconfig.json
+C:\Users\petrn\RiderProjects\OS\OS\bin\Release\net8.0\OS.dll
+C:\Users\petrn\RiderProjects\OS\OS\bin\Release\net8.0\OS.pdb
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.AssemblyInfoInputs.cache
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.AssemblyInfo.cs
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.csproj.CoreCompileInputs.cache
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.dll
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\refint\OS.dll
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.pdb
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\OS.genruntimeconfig.cache
+C:\Users\petrn\RiderProjects\OS\OS\obj\Release\net8.0\ref\OS.dll
